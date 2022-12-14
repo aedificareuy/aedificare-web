@@ -56,10 +56,11 @@
 
 /* Container for image text */
 .caption-container {
-  text-align: center;
-  background-color: #222;
+  text-align: right;
+  background-color: rgba(0,0,0,0);
   padding: 2px 16px;
-  color: white;
+  color: black;
+  font-size: 10px;
 }
 
 .row:after {
